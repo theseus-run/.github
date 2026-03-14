@@ -1,6 +1,6 @@
 ```
 ┌─[ THESEUS.RUN ]─────────────────────────────────────┐
-│   · THE SHI GETS REBUILT REBUILT ·                  │
+│   · THE SHIP GETS REBUILT REBUILT ·                 │
 └─────────────────────────────────────────────────────┘
 ```
 
